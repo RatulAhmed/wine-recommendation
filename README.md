@@ -26,3 +26,5 @@ Move into project directory
 ```
 python manage.py runserver
 ```
+## TO DO
+Certain combinations of questions cause error
